@@ -1,4 +1,3 @@
-
 public class Silgi {
 
 	public Silgi()
@@ -9,7 +8,7 @@ public class Silgi {
 	{
 		for(int i=0;i<100;i++)
 		{
-		System.out.println();/*burda ekranda her satıra bir bosluk koyup bir alta geçiyor ve bunu 100 kere yapıyor*/
+		System.out.println();/*burda ekranda her satıra bir bosluk koyup bir alta geçiyor ve bunu 100 kere yapıyor yani ekranı temiz gösteriyor*/
 		}
 	}
 }
