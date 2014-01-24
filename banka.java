@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*Silgi ve Kullaniciadivesifrekontrol class ları diger dosyalarda.*/
 public class banka {
 
 	/**
