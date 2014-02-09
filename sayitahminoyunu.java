@@ -15,7 +15,7 @@ public class tahminoyunu {
 			
 			do
 			{
-				System.out.print("0 dan 200 e kadar bir sayi giriniz => ");//ekrana yazıyı yazdırmaya yarar.err kırmızı renkde yazıdırır(err hata mesajları ıcındır ama ben suan farklı bir renk olsun diye kullandım)
+				System.out.print("0 dan 200 e kadar bir sayi giriniz => ");//ekrana yazıyı yazdırmaya yarar.
 			    sayi=sayioku.nextInt();//girdigimiz sayiyi sayi ya atar.
 				i++;
 				if(sayi<rastsayi)//eger random sayi bizim sayımızdan buyukse bu if içine girer
