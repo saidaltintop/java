@@ -24,7 +24,7 @@ public class Sayitahminoyunu {
 			{
 				case 1:
 					System.out.println(sayi1+"+"+sayi2+" = "+islem.topla(sayi1, sayi2));//altıislem sınıfından topla metotunu cagırdık
-					break;//saidaltıntop
+					break;
 				case 2:
 					System.out.println(sayi1+"-"+sayi2+" = "+islem.cıkart(sayi1, sayi2));//altıislem sınıfından cıkart metotunu cagırdık
 					break;
