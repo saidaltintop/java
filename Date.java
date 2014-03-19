@@ -1,4 +1,3 @@
-
 public class Date {
 	private int year,day,month;
 public Date()
